@@ -1,2 +1,2 @@
-# Statistical_inference_final
-The final project for Coursera's statistical inference course. See the pdf file for full report.
+# Statistical Inference Final
+The final project for Coursera's statistical inference course. See the pdf file for full report. The assignment asked to create two simulations, one that simulated a thousand random exponential variables and one that simulated 1000 samples of size 40 random exponential variables. The second part of the project asked to do a statistical analysis of the ToothGrowth dataset which examined the effects of different vitamin c sources on the length of odontoblasts (cells responsible for tooth growth) for 60 guinea pigs.
